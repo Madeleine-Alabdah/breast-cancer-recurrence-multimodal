@@ -35,7 +35,7 @@ Radiomic features were **pre-extracted** and provided with the dataset following
 - Kinetic features (DCE-MRI)  
 
 📥 Dataset access:  
-https://www.cancerimagingarchive.net/
+[https://www.cancerimagingarchive.net/](https://www.cancerimagingarchive.net/collection/duke-breast-cancer-mri/)
 
 ---
 
